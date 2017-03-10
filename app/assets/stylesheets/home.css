@@ -31,6 +31,10 @@
     margin-bottom: 20px;
 }
 
-.hotels-list .name {
+body {
+    height: 1000px;
+}
 
+.vr_view_container, iframe {
+    height: inherit;
 }
