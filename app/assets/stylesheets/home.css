@@ -1,0 +1,21 @@
+#mycarousel {
+    height: auto;
+}
+
+#mycarousel img {
+    margin: auto;
+}
+
+.hotels-list img {
+    width: 80%;
+    height: 200px;
+}
+
+.hotels-list .row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.hotels-list .name {
+
+}
