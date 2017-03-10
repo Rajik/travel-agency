@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-    get '/pages/:page' => 'pages#show'
+    get '/hotels/:hotel_id' => 'pages#show'
 
     get '/' => 'home#show'
 end

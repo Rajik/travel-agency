@@ -1,14 +1,21 @@
 [
   {
     "name": "Grande Bay Resort and Spa",
-    "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/92/78/96/grande-bay-resort-and.jpg"
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/92/78/96/grande-bay-resort-and.jpg",
+    "id": "grande_bay",
+    "url": "/hotels/grande_bay"
   },
   {
     "name": "Ideal Beach Resort",
-    "image": "https://media-cdn.tripadvisor.com/media/photo-w/06/10/aa/a3/villa-side.jpg"
+    "image": "https://media-cdn.tripadvisor.com/media/photo-w/06/10/aa/a3/villa-side.jpg",
+    "id": "ideal_beach",
+    "url": "/hotels/ideal_beach"
+
   },
   {
     "name": "Palais de Mahe",
-    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/01/ef/59/pondicherry-does-warm.jpg"
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/01/ef/59/pondicherry-does-warm.jpg",
+    "id": "palais_de_mahe",
+    "url": "/hotels/palais_de_mahe"
   }
 ]
